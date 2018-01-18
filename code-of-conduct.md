@@ -41,7 +41,7 @@ As organizers, we will seek to resolve conflicts peacefully and in a manner that
 Like everything else posted on IndieWeb.org, this Code of Conduct is released to the public domain according to CC0 (see the wiki's copyright page for details).
 
 ## Thanks
-Thank you to [IndieWeb](indieweb.org) for making their Code of Conduct a public resource, which this Code of Conduct has been adapted from.
+Thank you to [IndieWeb](https://indieweb.org) for making their Code of Conduct a public resource, which this Code of Conduct has been adapted from.
 
 Thank you to all of the members for creating a vibrant community for other solopreneurs.
 

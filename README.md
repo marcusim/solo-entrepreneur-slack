@@ -2,13 +2,13 @@
 
 The Solopreneur Slack was started to create connections between people who work for themselves. Whether that means consulting, creating a consumer product, or making art, the attribute we share is a no-excuse approach to taking control of where and how we spend our time. We have dreams, and we do the work to get there.
 
-Join us to meet others, share a story, or - simply - lurk.
+Join us to meet others, share a story, or simply lurk.
 
 ## Joining the Solopreneur Slack
 The Slack group is currently invite-only. If you're a solopreneur and interested in joining, just send an email with a short introduction and what you're hoping to get from the Slack to Marcus Im at [m@rcus.im](mailto:m@rcus.im).
 
 ## Code of Conduct
-The Solopreneur Slack is a positive and inclusive community that follows this [Code of Conduct](code-of-conduct.md), adapted from [Indieweb's CoC](indieweb.org/code-of-conduct). By participating in the Solopreneur Slack, you agree to adhere to this Code of Conduct.
+The Solopreneur Slack is a positive and inclusive community that follows this [Code of Conduct](code-of-conduct.md), adapted from [Indieweb's CoC](https://indieweb.org/code-of-conduct). By participating in the Solopreneur Slack, you agree to adhere to this Code of Conduct.
 
 ## Channels
 Channels are open and intended to provide conversations relevant to particular interests. If you don't see the one you're looking for, feel free to make it and get the conversation going.
@@ -30,7 +30,7 @@ Luckily, there are solopreneurs who could use your help and would be able to ret
 ## Staff
 As of January 18, 2018, the staff consists of:
 
-* [Marcus Im](https://ma.rcus.im) (Administrator)
+* [Marcus Im](http://ma.rcus.im) (Administrator)
 
 
 
