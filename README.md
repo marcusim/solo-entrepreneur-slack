@@ -27,7 +27,10 @@ As a solopreneur, it can be difficult learning all of the skills we need to. And
 
 Luckily, there are solopreneurs who could use your help and would be able to return the favor now or in the future. Go to the #skill-share channel and post what you need.
 
+## Staff
+As of January 18, 2018, the staff consists of:
 
+* [Marcus Im](https://ma.rcus.im) (Administrator)
 
 
 
