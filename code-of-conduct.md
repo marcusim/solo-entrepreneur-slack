@@ -1,15 +1,15 @@
-# Solopreneur Slack Code of Conduct
+# Solopreneur Talk Code of Conduct
 
-By participating in the Solopreneur Slack, you agree to adhere to the following Code of Conduct.
+By participating in the Solopreneur Talk Slack, you agree to adhere to the following Code of Conduct.
 
 *tl;dr:*
 Be respectful of other people, respectfully ask people to stop if you are bothered, and if you can't resolve an issue, contact staff. If you are being a problem, it will be apparent and you'll be asked to leave.
-Based on previous excellent work by others, this is a living code of conduct. This code of conduct applies to all Solopreneur Slack spaces both online and off, including our events and Slack.
+Based on previous excellent work by others, this is a living code of conduct. This code of conduct applies to all Solopreneur Talk spaces both online and off, including our events and Slack.
 
 ## Respect
-Solopreneur Slack is an intentionally positive community that exists to support solo entrepreneurs: people who work for themselves.
+Solopreneur Talk is an intentionally positive community that exists to support solo entrepreneurs: people who work for themselves.
 
-Solopreneur Slack spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender (including transgender status), sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, politics, ideology (real world or tech), or software preferences.
+Solopreneur Talk spaces are an inclusive environment, based on treating all individuals respectfully, regardless of gender (including transgender status), sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion (or lack thereof), physical appearance, politics, ideology (real world or tech), or software preferences.
 
 We value respectful behavior above individual opinions.
 
